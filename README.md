@@ -1,7 +1,7 @@
 # Credit_Risk_Analysis
 
 
-# Ilearned
+# I learned
 
 By the end of this module, you will be able to: 
 
