@@ -36,10 +36,10 @@ ________________________________________________________________________________
 
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Naive%20Random.png)
 
-![image]
+![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling.png)
 
-![image]
+![image]()
 
-![image]
+![image]()
 
-![image]
+![image]()
