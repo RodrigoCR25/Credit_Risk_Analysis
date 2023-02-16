@@ -34,7 +34,7 @@ ________________________________________________________________________________
 
 # Results
 
-![image]
+![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Naive%20Random.png)
 
 ![image]
 
