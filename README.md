@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling.png)
 
-![image]()
+![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
 ![image]()
 
