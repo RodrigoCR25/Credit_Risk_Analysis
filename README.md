@@ -1,5 +1,5 @@
 # Credit_Risk_Analysis
-
+_____________________________________________________________________________________________________________________________________________________________
 
 # I learned
 
@@ -34,12 +34,22 @@ ________________________________________________________________________________
 
 # Results
 
+# Naive Random Oversampling
+
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Naive%20Random.png)
+
+# SMOTE Oversampling
 
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/SMOTE%20Oversampling.png)
 
+# Undesrsampling
+
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Undersampling.png)
+
+# Easy Ensamble AdaBoost Classifer
 
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Easy%20Emsemble%20Analysis.png)
 
-![image]()
+# Balance Random Forest Classifier
+
+![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Random%20Forest%20Analysis.png)
