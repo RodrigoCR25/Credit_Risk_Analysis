@@ -40,6 +40,6 @@ ________________________________________________________________________________
 
 ![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
-![image]()
+![image](https://github.com/RodrigoCR25/Credit_Risk_Analysis/blob/main/Easy%20Emsemble%20Analysis.png)
 
 ![image]()
